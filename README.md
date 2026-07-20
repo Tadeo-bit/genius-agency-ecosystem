@@ -31,10 +31,10 @@ Como **Líder de Desarrollo Frontend & UX**, mis principales aportes al proyecto
 
 A continuación se detallan los accesos a cada uno de los componentes modulares desarrollados por la célula de ingeniería:
 
-* 📄 [Módulo Frontend: Genius Landings](REEMPLAZAR_CON_LINK_DEL_REPO_DE_LANDINGS)
-* ⚙️ [Módulo API: Landing CRM](REEMPLAZAR_CON_LINK_DEL_REPO_DEL_CRM)
-* 📊 [Módulo Panel: Genius Dashboard](REEMPLAZAR_CON_LINK_DEL_REPO_DEL_DASHBOARD)
-* ☕ [Módulo Backend: Budget Manager](REEMPLAZAR_CON_LINK_DEL_REPO_DEL_BUDGET)
+* 📄 [Módulo Frontend: Genius Landings](https://github.com/Tadeo-bit/Genius-Landings)
+* ⚙️ [Módulo API: Landing CRM](https://github.com/Tadeo-bit/Genius-CRM-main)
+* 📊 [Módulo Panel: Genius Dashboard](https://github.com/Tadeo-bit/Genius-Dashboard)
+* ☕ [Módulo Backend: Budget Manager](https://github.com/Tadeo-bit/Genius-Budget)
 
 ---
 
