@@ -19,11 +19,10 @@ El proyecto fue diseñado bajo una arquitectura cliente-servidor e integración 
 
 Como **Líder de Desarrollo Frontend & UX**, mis principales aportes al proyecto incluyeron:
 
-* **Desarrollo desde el Prototipo:** Creación e implementación integral de las landings para las campañas del *Mundial* y *Día de la Madre*, respetando la identidad visual corporativa de la marca.
-* **Optimización de Conversión y Estabilidad:** Diagnóstico y reparación de bugs críticos en código heredado (botones de conversión rotos).
-* **Lógica Anti-Doble Clic:** Programación de un script en JavaScript para bloquear los formularios tras el primer envío, evitando la inyección de registros duplicados en la API del CRM y protegiendo el servidor de peticiones redundantes.
-* **Plan de Contingencia (UX):** Integración de desvíos inteligentes a WhatsApp para asegurar la captura del cliente ante posibles fallos de red.
-* **Metodologías Ágiles y Handoff:** Co-autoría del documento final de *Handoff* técnico en la rama `dev`, incluyendo la propuesta formal para la migración de datos hacia PostgreSQL para eliminar la volatilidad "In-memory".
+* **Desarrollo de Campañas desde el Prototipo:** Diseño e implementación integral de las landing pages para el *Mundial* y el *Día de la Madre*, respetando la identidad corporativa de la marca. Asimismo, diseñé e incorporé una sección dinámica de testimonios en video para la campaña del *9 de Julio*.
+* **Optimización de Conversión y Estabilidad:** Diagnóstico y reparación de bugs críticos en código heredado (como botones de conversión rotos).
+* **Lógica de Formulario e Integración:** Programación de un script en JavaScript con validación inline y protección *anti-doble clic* para evitar registros duplicados en la API del CRM.
+* **Metodologías Ágiles y Handoff:** Trabajo bajo marco Scrum (Sprints semanales y estimación por *T-shirt sizes*). Co-autoría del entregable técnico final (*Handoff* en rama `dev`) con la propuesta formal de migración hacia PostgreSQL.
 
 ---
 
@@ -39,7 +38,7 @@ A continuación se detallan los accesos a cada uno de los componentes modulares 
 ---
 
 ## 👥 Célula de Desarrollo (Genius Agency)
-* **Tadeo Otaola** - Líder de Desarrollo Frontend & UX
+* **Tadeo** - Líder de Desarrollo Frontend & UX
 * **Alejandro** - Analista de Datos / Data Specialist
 * **Cristian** - Desarrollador Backend
 * **Román** - Desarrollador Backend
